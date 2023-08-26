@@ -1,0 +1,52 @@
+body{
+    background-color: #FCF9BE;
+}
+
+
+
+h1{
+    font-size: 50px;
+    font-family: 'Play', sans-serif;
+    text-align: center;
+    color: #810000;
+}
+
+.container{
+    margin-left: 35%;
+}
+
+
+.btn{
+    margin: 20px;
+    display: inline-block;
+    width:200px;
+    height:200px;
+    border-radius: 4%;
+    border:5px black solid;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.pressed{
+    background-color:lightgray;
+    box-shadow: 10px 5px gray ;
+    opacity: 1;
+}
+
+.wrong{
+    background-color:#FA1E0E;
+}
